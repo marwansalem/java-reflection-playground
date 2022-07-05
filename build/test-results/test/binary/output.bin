@@ -1,0 +1,4 @@
+9public com.incorta.observability.java.reflection.Sheep()
+Ipublic com.incorta.observability.java.reflection.Sheep(java.lang.String)
+ƒpublic com.incorta.observability.java.reflection.Sheep(java.lang.String,java.lang.String,java.lang.String,double,java.lang.String)
+TSheep{id='007', name='5aroofna', nickName='el ghada', weight=50.0, owner='el team'}
